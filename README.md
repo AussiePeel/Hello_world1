@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Kyle</title>
+		<title>Uniform Deceit</title>
 	</head>
 	<body style="background-color: steelblue">
 	<img src= https://img0.etsystatic.com/016/0/6559353/il_340x270.447865326_cms6.jpg>
@@ -21,8 +21,8 @@
 	    </ol>
 	    <li style="font-size: 20px"><strong>Favorite Quotes</strong></li>
 	    <ul>
-	        <li>Fuck you</li>
-	        <li>Really, fuck you.</li>
+	        <li>pass</li>
+	        <li>Really, pass.</li>
 	    </ul>
 	    <li><strong>Where I've Lived</strong></li>
 	    <ol>
