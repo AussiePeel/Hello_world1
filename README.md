@@ -4,7 +4,7 @@
 	<head>
 		<title>Kyle</title>
 	</head>
-	<body style="background-color: blue">
+	<body style="background-color: steelblue">
 	<img src= https://img0.etsystatic.com/016/0/6559353/il_340x270.447865326_cms6.jpg>
 	<p style="font-family: Arial"> I'm 23 years young, bitch, and I'm from College Park, MD.</p>
 	<ul>
