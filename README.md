@@ -4,8 +4,8 @@
 	<head>
 		<title>Kyle</title>
 	</head>
-	<body>
-	<img src= http://vignette1.wikia.nocookie.net/southparkfanon/images/a/ad/Kyle.png/revision/latest?cb=20110317001632>
+	<body style="background-color: blue">
+	<img src= https://img0.etsystatic.com/016/0/6559353/il_340x270.447865326_cms6.jpg>
 	<p style="font-family: Arial"> I'm 23 years young, bitch, and I'm from College Park, MD.</p>
 	<ul>
 	    <li style="color: blue"><strong>Interests</strong></li>
