@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 		<title>Kyle</title>
 	</head>
 	<body style="background-color: steelblue">
